@@ -125,7 +125,12 @@
             "lang": "fr",
             "name": "Français",
             "path": "lang/fr.json"
-        }
+        },
+        {
+            "lang": "es",
+            "name": "Spanish",
+            "path": "lang/es.json"
+          }
     ],
     "socket": true,
     "initiative": "1d20 + @abilities.dex.mod + @attributes.init.value",
